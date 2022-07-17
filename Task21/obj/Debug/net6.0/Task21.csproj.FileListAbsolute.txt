@@ -1,0 +1,15 @@
+/Users/alikagaletsky/Документы/GeekBrains/Homework1707/Homework1707/Task21/obj/Debug/net6.0/Task21.csproj.AssemblyReference.cache
+/Users/alikagaletsky/Документы/GeekBrains/Homework1707/Homework1707/Task21/obj/Debug/net6.0/Task21.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alikagaletsky/Документы/GeekBrains/Homework1707/Homework1707/Task21/obj/Debug/net6.0/Task21.AssemblyInfoInputs.cache
+/Users/alikagaletsky/Документы/GeekBrains/Homework1707/Homework1707/Task21/obj/Debug/net6.0/Task21.AssemblyInfo.cs
+/Users/alikagaletsky/Документы/GeekBrains/Homework1707/Homework1707/Task21/obj/Debug/net6.0/Task21.csproj.CoreCompileInputs.cache
+/Users/alikagaletsky/Документы/GeekBrains/Homework1707/Homework1707/Task21/bin/Debug/net6.0/Task21
+/Users/alikagaletsky/Документы/GeekBrains/Homework1707/Homework1707/Task21/bin/Debug/net6.0/Task21.deps.json
+/Users/alikagaletsky/Документы/GeekBrains/Homework1707/Homework1707/Task21/bin/Debug/net6.0/Task21.runtimeconfig.json
+/Users/alikagaletsky/Документы/GeekBrains/Homework1707/Homework1707/Task21/bin/Debug/net6.0/Task21.dll
+/Users/alikagaletsky/Документы/GeekBrains/Homework1707/Homework1707/Task21/bin/Debug/net6.0/Task21.pdb
+/Users/alikagaletsky/Документы/GeekBrains/Homework1707/Homework1707/Task21/obj/Debug/net6.0/Task21.dll
+/Users/alikagaletsky/Документы/GeekBrains/Homework1707/Homework1707/Task21/obj/Debug/net6.0/refint/Task21.dll
+/Users/alikagaletsky/Документы/GeekBrains/Homework1707/Homework1707/Task21/obj/Debug/net6.0/Task21.pdb
+/Users/alikagaletsky/Документы/GeekBrains/Homework1707/Homework1707/Task21/obj/Debug/net6.0/Task21.genruntimeconfig.cache
+/Users/alikagaletsky/Документы/GeekBrains/Homework1707/Homework1707/Task21/obj/Debug/net6.0/ref/Task21.dll
