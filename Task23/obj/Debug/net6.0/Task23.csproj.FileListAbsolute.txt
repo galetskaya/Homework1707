@@ -1,0 +1,15 @@
+/Users/alikagaletsky/Документы/GeekBrains/Homework1707/Homework1707/Task23/obj/Debug/net6.0/Task23.csproj.AssemblyReference.cache
+/Users/alikagaletsky/Документы/GeekBrains/Homework1707/Homework1707/Task23/obj/Debug/net6.0/Task23.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alikagaletsky/Документы/GeekBrains/Homework1707/Homework1707/Task23/obj/Debug/net6.0/Task23.AssemblyInfoInputs.cache
+/Users/alikagaletsky/Документы/GeekBrains/Homework1707/Homework1707/Task23/obj/Debug/net6.0/Task23.AssemblyInfo.cs
+/Users/alikagaletsky/Документы/GeekBrains/Homework1707/Homework1707/Task23/obj/Debug/net6.0/Task23.csproj.CoreCompileInputs.cache
+/Users/alikagaletsky/Документы/GeekBrains/Homework1707/Homework1707/Task23/bin/Debug/net6.0/Task23
+/Users/alikagaletsky/Документы/GeekBrains/Homework1707/Homework1707/Task23/bin/Debug/net6.0/Task23.deps.json
+/Users/alikagaletsky/Документы/GeekBrains/Homework1707/Homework1707/Task23/bin/Debug/net6.0/Task23.runtimeconfig.json
+/Users/alikagaletsky/Документы/GeekBrains/Homework1707/Homework1707/Task23/bin/Debug/net6.0/Task23.dll
+/Users/alikagaletsky/Документы/GeekBrains/Homework1707/Homework1707/Task23/bin/Debug/net6.0/Task23.pdb
+/Users/alikagaletsky/Документы/GeekBrains/Homework1707/Homework1707/Task23/obj/Debug/net6.0/Task23.dll
+/Users/alikagaletsky/Документы/GeekBrains/Homework1707/Homework1707/Task23/obj/Debug/net6.0/refint/Task23.dll
+/Users/alikagaletsky/Документы/GeekBrains/Homework1707/Homework1707/Task23/obj/Debug/net6.0/Task23.pdb
+/Users/alikagaletsky/Документы/GeekBrains/Homework1707/Homework1707/Task23/obj/Debug/net6.0/Task23.genruntimeconfig.cache
+/Users/alikagaletsky/Документы/GeekBrains/Homework1707/Homework1707/Task23/obj/Debug/net6.0/ref/Task23.dll
